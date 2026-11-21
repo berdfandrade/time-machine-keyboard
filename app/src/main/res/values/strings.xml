@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Machine</string>
+    <string name="ime_name">Time Machine Keyboard</string>
+    <string name="subtype_pt_br">Português (Brasil)</string>
+</resources>
